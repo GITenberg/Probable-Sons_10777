@@ -1,0 +1,28 @@
+_repo: Probable-Sons_10777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    alias: Feuvre, Amy Le
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: Despite his dislike of children, Sir Edward finds his attitude changing
+  when his small niece Milly comes to live with him.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Probable Sons
+url: http://www.gutenberg.org/ebooks/10777
